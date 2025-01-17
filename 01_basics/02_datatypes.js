@@ -26,6 +26,6 @@ let states= null; // not undefined but its empty
 // object
 
 console.log(typeof "sid");
-console.log(typeof null);
+console.log(typeof null); //output: object
 console.log(typeof age);
-console.log(typeof undefined);
+console.log(typeof undefined); //output: undefined
