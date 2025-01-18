@@ -7,7 +7,7 @@ console.log(2!=2);
 console.log("2">1);
 console.log("02">1);
 
-// ===  => checks dataypes too
+// ===  => triple equal checks dataypes too
 console.log("2"===2);
 
 //not recommented comparison can confuse you 
